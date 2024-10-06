@@ -1,3 +1,5 @@
 Plan to do with 3rd semester
 - Joining all competition
+  * APSI
+  * MTQ
 - Learn more about Informatics
