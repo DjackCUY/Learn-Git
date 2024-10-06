@@ -1,6 +1,8 @@
 Plan to do with 3rd semester
 - Joining all competition
   * APSI
+    ^ Game Programming
   * MTQ
+    ^ KTI
 - Learn more about Informatics
  *Java
