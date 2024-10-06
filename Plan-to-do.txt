@@ -3,3 +3,4 @@ Plan to do with 3rd semester
   * APSI
   * MTQ
 - Learn more about Informatics
+ *Java
