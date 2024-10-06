@@ -6,3 +6,4 @@ Plan to do with 3rd semester
     ^ KTI
 - Learn more about Informatics
  *Java
+  ^ Simple OOP
